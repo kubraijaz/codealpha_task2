@@ -1,7 +1,7 @@
 # Stock Portfolio Tracker 📈  
 
 ## *Description*  
-This repository contains the **Stock Portfolio Tracker**, which helps users fetch real-time stock prices, track investments, and calculate profits/losses.  
+This repository contains the **Stock Portfolio Tracker**, which helps users fetch real-time stock prices, track investments.  
 
 ## *Files Included*  
 - **codealpha_task2.ipynb** – Jupyter Notebook containing the Stock Portfolio Tracker implementation.  
